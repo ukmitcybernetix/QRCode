@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">QRCode</string>
+    <string name="title_activity_data">Scan</string>
+    <string name="lbl_id">ID CX</string>
+    <string name="lbl_divisi">DIVISI</string>
+    <string name="lbl_jurusan">JURUSAN</string>
+    <string name="lbl_skill">SKILL</string>
+    <string name="btn_back">KEMBALI</string>
+    <string name="btn_no_data">DATA TIDAK TERSEDIA</string>
+    <string name="msg_no_data_found">Data tidak ditemukan. Silahkan lakukan scan ulang.</string>
+    <string name="lbl_scan_activity">Scan QR Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="detail_activity_main">Scan QRCode dan Lihat Daftar Anggota UKM IT Cybernetix</string>
+    <string name="logo">Logo</string>
 </resources>
