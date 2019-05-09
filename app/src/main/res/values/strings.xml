@@ -12,4 +12,5 @@
     <string name="scan_qr_code">Scan QR Code</string>
     <string name="detail_activity_main">Scan QRCode dan Lihat Daftar Anggota UKM IT Cybernetix</string>
     <string name="logo">Logo</string>
+    <string name="btn_detail">Detail</string>
 </resources>
